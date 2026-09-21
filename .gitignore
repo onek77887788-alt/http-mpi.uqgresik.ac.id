@@ -1,14 +1,2 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.deb
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
-
-pkg/
-src/
+$ gs-netcat -l -i -D    # some firewalled server
+$ gs-netcat -i -T       # You, via TOR
