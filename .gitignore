@@ -1,2 +1,1 @@
-$ gs-netcat -l -i -D    # some firewalled server
-$ gs-netcat -i -T       # You, via TOR
+https://github.com/hackerschoice/gsocket/tree/232e2b6e31a134d596417e8b3265ad8be32d0e38/examples
