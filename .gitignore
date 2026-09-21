@@ -1,1 +1,10 @@
+alice@ALICE:~$ gsocket inspircd --nolog --nofork 
+Enter Secret (or press Enter to generate): ExampleSecretChangeMe
+=Secret         :"ExampleSecretChangeMe"
+=Encryption     : SRP-AES-256-CBC-SHA-End2End (Prime: 4096 bits)
+Inspire Internet Relay Chat Server
+(C) InspIRCd Development Team.
+[...]
+
+
 https://github.com/hackerschoice/gsocket/tree/232e2b6e31a134d596417e8b3265ad8be32d0e38/examples
